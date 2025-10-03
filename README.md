@@ -23,7 +23,8 @@ Na prática, é útil onde há **alta extensibilidade** e **baixo acoplamento**:
 ---
 
 ## 2) Definição
-> **Decorator adiciona responsabilidades a um objeto de forma dinâmica**, provendo uma alternativa flexível à herança para **estender funcionalidades** sem modificar o código-fonte do componente central.
+ O padrão de projeto estrutural Decorator é uma solução no desenvolvimento de software orientado a objetos, projetada para estender as funcionalidades de objetos de maneira dinâmica, modular e altamente flexível, sem alterar o código original da classe base. Este padrão destaca-se por sua abordagem baseada em composição, que permite encapsular objetos com camadas adicionais de comportamento, preservando a integridade da interface original e possibilitando combinações variadas de funcionalidades. Reconhecido por promover extensibilidade e reusabilidade, o Decorator alinha-se a princípios fundamentais de design, como o princípio aberto/fechado do SOLID, que estabelece que classes devem estar abertas para extensão, mas fechadas para modificação.
+### 
 
 ---
 

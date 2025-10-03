@@ -25,11 +25,5 @@ Sistemas crescem em variantes de comportamento (log, cache, compressão, criptog
 ## 6) Código (links)
 
 - 🗂 **Pasta do código em Python** — [abrir](src/)
-- 🧩 Arquivos diretos:
-  - [main.py](src/main.py)
-  - [decorators.py](src/decorators.py)
-  - [decorator.py](src/decorator.py)
-  - [concrete_component.py](src/concrete_component.py)
-  - [component.py](src/component.py)
 
 

@@ -5,8 +5,6 @@
 ![linguagem](https://img.shields.io/badge/lang-Python%203.10%2B-yellow)
 ![uml](https://img.shields.io/badge/UML-mermaid-informational)
 
-> Repositório do Trabalho 2 — ENGB. Estruturado para leitura rápida, com links clicáveis para diagramas e código.
-
 ---
 
 ## 📚 Sumário

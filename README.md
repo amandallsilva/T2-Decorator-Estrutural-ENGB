@@ -1,10 +1,5 @@
 # Decorator 🎭 — Padrão de Projeto (Estrutural)
 
-![status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
-![categoria](https://img.shields.io/badge/categoria-estrutural-blue)
-![linguagem](https://img.shields.io/badge/lang-Python%203.10%2B-yellow)
-![uml](https://img.shields.io/badge/UML-mermaid-informational)
-
 ---
 
 ## 📚 Sumário
@@ -14,10 +9,7 @@
 - [4) Aplicação em um sistema real](#4-aplicação-em-um-sistema-real)
 - [5) UML (links)](#5-uml-links)
 - [6) Código (links)](#6-código-links)
-- [7) Como executar](#7-como-executar)
-- [8) Vantagens / Limitações](#8-vantagens--limitações)
-- [9) Referências](#9-referências)
-- [10) Estrutura do repositório](#10-estrutura-do-repositório)
+- [7) Referências](#7-referências)
 
 ---
 
@@ -36,23 +28,31 @@ Na prática, é útil onde há **alta extensibilidade** e **baixo acoplamento**:
 ---
 
 ## 3) Problema que resolve
-- Evitar **explosão de subclasses** ao combinar variações de comportamento.  
-- Permitir **liga/desliga** e **reordenação** de responsabilidades em *runtime*.  
-- Manter o núcleo **estável**, favorecendo testes e manutenção.
+- 🧩 Evitar **explosão de subclasses** ao combinar variações de comportamento.  
+- 🔀 Permitir **liga/desliga** e **reordenação** de responsabilidades em *runtime*.  
+- 🧪 Manter o núcleo **estável**, favorecendo testes e manutenção.
 
 ---
 
 ## 4) Aplicação em um sistema real
-**API/Web**: antes de enviar/persistir dados, aplicar **validação**, depois **compressão** e **criptografia**, registrando **logs**. Cada etapa é um *decorator* que embrulha o objeto principal. A ordem pode mudar conforme a política de segurança/desempenho.
+**API/Web:** antes de enviar/persistir dados, aplicar **validação**, depois **compressão** e **criptografia**, registrando **logs**. Cada etapa é um *decorator* que embrulha o objeto principal. A ordem pode mudar conforme a política de segurança/desempenho.
 
 ---
 
 ## 5) UML (links)
 - ▶️ **Diagrama de Classes (Mermaid)** — [`diagrams/class-diagram.md`](diagrams/class-diagram.md)  
+- ▶️ **Diagrama de Sequência (Mermaid)** — [`diagrams/sequence-diagram.md`](diagrams/sequence-diagram.md)
+
+> Dica: manter os diagramas em arquivos separados deixa a leitura do README mais limpa.
 
 ---
 
 ## 6) Código (links)
 - 🗂 **Pasta do código (Python)** — [`src/`](src/)  
+
 ---
 
+## 7) Referências
+- Gamma, E.; Helm, R.; Johnson, R.; Vlissides, J. *Design Patterns: Elements of Reusable Object-Oriented Software*.  
+- Meyer, B. *Object-Oriented Software Construction* (Princípio Aberto-Fechado).  
+- Freeman, E.; Robson, E. *Head First Design Patterns*.

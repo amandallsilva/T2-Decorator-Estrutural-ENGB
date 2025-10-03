@@ -18,40 +18,18 @@ Sistemas crescem em variantes de comportamento (log, cache, compressão, criptog
 ## 4) Aplicação em um sistema real
 **API/Web:** antes de enviar dados: validar, **comprimir**, **criptografar** e **logar**. Cada etapa é um *decorator* empilhado. A ordem pode mudar conforme a necessidade.
 
-## 5) UML (Mermaid)
-### Diagrama de Classes
-```mermaid
-classDiagram
-    class Component {
-      <<interface>>
-      +operation(data) any
-    }
+## 5) UML (links)
 
-    class ConcreteComponent {
-      +operation(data) any
-    }
+- ▶️ **Diagrama de Classes (Mermaid)** — [abrir](diagrams/class-diagram.md)
 
-    class Decorator {
-      -wrappee: Component
-      +operation(data) any
-    }
+## 6) Código (links)
 
-    class LoggingDecorator {
-      +operation(data) any
-    }
+- 🗂 **Pasta do código em Python** — [abrir](src/)
+- 🧩 Arquivos diretos:
+  - [main.py](src/main.py)
+  - [decorators.py](src/decorators.py)
+  - [decorator.py](src/decorator.py)
+  - [concrete_component.py](src/concrete_component.py)
+  - [component.py](src/component.py)
 
-    class CompressDecorator {
-      +operation(data) any
-    }
-
-    class EncryptDecorator {
-      +operation(data) any
-    }
-
-    Component <|.. ConcreteComponent
-    Component <|.. Decorator
-    Decorator <|-- LoggingDecorator
-    Decorator <|-- CompressDecorator
-    Decorator <|-- EncryptDecorator
-    Decorator o--> Component
 

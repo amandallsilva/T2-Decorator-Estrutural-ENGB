@@ -77,8 +77,8 @@ O Decorator interage de maneira complementar com outros padrões de projeto, des
 ---
 
 ## 5) UML (links)
-- ▶️ **Diagrama de Classes (Mermaid)** — [`diagrams/class-diagram.md`](diagrams/class-diagram.md)  
-- ▶️ **Diagrama de Sequência (Mermaid)** — [`diagrams/sequence-diagram.md`](diagrams/sequence-diagram.md)
+- ▶️ **Diagrama de Classes ** — [`diagrams/class-diagram.md`](diagrams/class-diagram.md)  
+
 
 > Dica: manter os diagramas em arquivos separados deixa a leitura do README mais limpa.
 

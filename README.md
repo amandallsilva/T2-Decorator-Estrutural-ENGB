@@ -30,7 +30,7 @@ Repositório criado para a disciplina **Engenharia de Software**, referente ao *
 
 ---
 
-## 7) Referências
+## Referências
 - Freeman, E.; Robson, E. *Head First Design Patterns*.
 - Gamma, E.; Helm, R.; Johnson, R.; Vlissides, J. *Design Patterns: Elements of Reusable Object-Oriented Software*.
 - Geeksforgeeks. *Decorator Pattern in System Design*. Disponível em: https://www.geeksforgeeks.org/system-design/decorator-pattern. Acesso em: 3 out. 2025.

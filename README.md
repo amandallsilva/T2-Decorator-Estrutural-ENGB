@@ -27,3 +27,14 @@ Repositório criado para a disciplina **Engenharia de Software**, referente ao *
 - Severino Souza  
 - Susie Marques
 - Valdecir Reis
+
+---
+
+## 7) Referências
+- Freeman, E.; Robson, E. *Head First Design Patterns*.
+- Gamma, E.; Helm, R.; Johnson, R.; Vlissides, J. *Design Patterns: Elements of Reusable Object-Oriented Software*.
+- Geeksforgeeks. *Decorator Pattern in System Design*. Disponível em: https://www.geeksforgeeks.org/system-design/decorator-pattern. Acesso em: 3 out. 2025.
+- Kukhar, A. *Use decorator design pattern in program design for the formation of curriculum*. Тези доповідей, p. 51, 2014.
+- Meyer, B. *Object-Oriented Software Construction* (Princípio Aberto-Fechado).
+- Refactoring Guru. *Decorator.* Disponível em: https://refactoring.guru/design-patterns/decorator. Acesso em: 3 out. 2025.
+- Softplan. *Decorator Design Pattern*. Disponível em: https://www.softplan.com.br/en/tech-writers/padrao-de-projeto-decorator. Acesso em: 3 out. 2025.

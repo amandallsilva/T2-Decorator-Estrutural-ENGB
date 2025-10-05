@@ -15,8 +15,8 @@ Repositório criado para a disciplina **Engenharia de Software**, referente ao *
 
 - **[2-Representação](./2-Representação)**  
   Contém a parte prática e visual do trabalho:  
-  - [📊 Diagrama UML (Classes)](./2-Representação/classes.md)  
-  - [💻 Exemplo de Código Orientado a Objetos](./2-Representação/código.md)  
+  - [📊 Diagrama UML (Classes)](./classes.md)  
+  - [💻 Exemplo de Código Orientado a Objetos](./código.md)  
 
 ---
 

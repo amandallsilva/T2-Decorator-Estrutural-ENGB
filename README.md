@@ -7,7 +7,7 @@ Repositório criado para a disciplina **Engenharia de Software**, referente ao *
 ## 📂 Estrutura do Repositório  
 
 - **[1-Documentação](./1-Documentação)**  
-  Contém a parte textual do trabalho, organizada em arquivos `.md`:  
+  Contém a parte textual do trabalho, organizada em arquivo `.md`:  
   - Contextualização inicial  
   - Definição do padrão  
   - Qual problema resolve  

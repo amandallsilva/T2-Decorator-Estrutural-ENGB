@@ -20,16 +20,6 @@ Repositório criado para a disciplina **Engenharia de Software**, referente ao *
 
 ---
 
-## 📑 Sumário  
-
-1. [📘 Contextualização e Definição](./1-Documentação)  
-2. [❓ Problema Resolvido](./1-Documentação)  
-3. [🏗 Aplicações em Sistemas Reais](./1-Documentação)  
-4. [📊 Representação UML](./2-Representação/classes.md)  
-5. [💻 Exemplo de Código](./2-Representação/código.md)  
-
----
-
 ## 👥 Equipe  
 
 - Amanda Silva
